@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://quantumcodesolutions.github.io/FutureGenerationAcademy-PublicWebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://quantumcodesolutions.github.io/FutureGenerationAcademy-PublicWebsite/</loc>
+</url>
+<url>
+<loc>https://quantumcodesolutions.github.io/FutureGenerationAcademy-PublicWebsite/about-us.html</loc>
+<lastmod>2020-01-20T08:31:09+03:00</lastmod>
+</url>
+<url>
+<loc>https://quantumcodesolutions.github.io/FutureGenerationAcademy-PublicWebsite/contact-us.html</loc>
+<lastmod>2020-01-20T08:32:17+03:00</lastmod>
+</url>
+<url>
+<loc>https://quantumcodesolutions.github.io/FutureGenerationAcademy-PublicWebsite/our-nursery.html</loc>
+<lastmod>2020-01-20T08:31:32+03:00</lastmod>
+</url>
+<url>
+<loc>https://quantumcodesolutions.github.io/FutureGenerationAcademy-PublicWebsite/parents-information.html</loc>
+<lastmod>2020-01-20T08:31:47+03:00</lastmod>
+</url>
+</urlset>
